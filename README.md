@@ -15,7 +15,8 @@ Hi, I’m **Rudra Rai**, a final-year Life Sciences student (Microbiology, Zoolo
 - Sequence Alignment (BLAST, Clustal Omega) :contentReference[oaicite:0]{index=0}  
 - Phylogenetics & Tree Reconstruction (Neighbor-Joining, Maximum Likelihood) :contentReference[oaicite:1]{index=1}  
 - Structural Modeling with AlphaFold2 :contentReference[oaicite:2]{index=2}  
-- NGS Pipelines (e.g., Nextflow, Snakemake)   
+- NGS Pipelines (e.g., Nextflow, Snakemake)
+- MATLAB Basics   
 
 **Biostatistics (Basic Competency)**  
 - One-Way ANOVA (SciPy f_oneway) :contentReference[oaicite:3]{index=3}  
